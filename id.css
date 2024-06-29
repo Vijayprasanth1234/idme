@@ -1,0 +1,19 @@
+.bo{
+    
+    border: solid black;
+    height: 380px;
+    width: 280px;
+    margin-left: 150px;
+}
+.box{ 
+     background-color: blue; 
+    width: 280px; 
+    height: 90px; 
+ } 
+.stu{
+    background-color: rgb(171, 37, 37);
+    height: 30px;
+    width: 220px;
+    margin-top: -280px;
+    margin-left: 180px;
+}
